@@ -132,4 +132,20 @@ function Dashboard() {
   );
 }
 
+________________________________________________________________________________________________________________________
+
+Then check back with OpenAI chatgpt for:
+
+- oracle/pricefeed integration
+- contract addresses, abis, and security
+
+______________________________________________________________________________________
+
+- test the ui/ux & functionality
+- add logos, background images, and text color
+________________________________________________________________
+- test
+- migrate to mainnet
+
+- migrating to mainnet
 
